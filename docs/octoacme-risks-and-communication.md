@@ -21,6 +21,7 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- **Support Liaison** surfaces customer-facing issues and field feedback to the PM and Product Lead
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
 
@@ -38,5 +39,6 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
+- Team-level -> Scrum Master -> PM -> Product Lead -> Sponsor
+- Support-reported incidents: Support Liaison -> PM -> Product Lead
 - For security incidents, follow the security incident runbook and notify Security on-call

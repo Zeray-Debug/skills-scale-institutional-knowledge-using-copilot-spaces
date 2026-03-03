@@ -18,7 +18,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Scrum Master: facilitates agile ceremonies, removes blockers, coaches on process.
+- Release Manager: owns release planning, scheduling, deployment, and post-release communication.
+- UX Designer: designs user experiences, delivers wireframes/prototypes, ensures accessibility.
+- Support Liaison: surfaces customer feedback and support insights to product and project leads.
 - Stakeholders: provide inputs and approvals.
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for detailed definitions and interaction maps.
 
 ## Key Artifacts
 - Project Charter / One-pager
